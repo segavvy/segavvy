@@ -1,3 +1,7 @@
+# LAPRAS
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # My Qiita works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/segavvy/posts.svg)](http://qiita.com/segavvy) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/segavvy/contributions.svg)](http://qiita.com/segavvy) [![My Qiita followers](https://qiita-badge.apiapi.app/s/segavvy/followers.svg)](http://qiita.com/segavvy)
 
