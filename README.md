@@ -1,7 +1,7 @@
 # LAPRAS
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/segavvy" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.8&b=3.75&i=3.65&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/3/2023, 2:33:00 AM
+<a href="https://lapras.com/public/segavvy" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.81&b=3.75&i=3.65&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/4/2023, 12:38:30 AM
 <!--END_SECTION:lapras-card-->
 
 # My Qiita works
