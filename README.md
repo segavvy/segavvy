@@ -1,7 +1,7 @@
 # LAPRAS
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/segavvy" target="_blank" rel="noopener noreferrer"><img alt="segavvyのLAPRASでのスコアは次の通りです: エンジニアリング: 3.72 / 5.0, ビジネス: 3.83 / 5.0, インフルエンス: 3.71 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.72&b=3.83&i=3.71&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/10/2024, 12:35:44 AM</p>
+Last Updated on 1/11/2024, 12:35:39 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # My Qiita works
