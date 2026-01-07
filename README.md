@@ -1,7 +1,7 @@
 # LAPRAS
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/segavvy" target="_blank" rel="noopener noreferrer"><img alt="segavvyのLAPRASでのスコアは次の通りです: エンジニアリング: 3.9 / 5.0, ビジネス: 4.03 / 5.0, インフルエンス: 3.83 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.9&b=4.03&i=3.83&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/6/2026, 12:58:12 AM</p>
+Last Updated on 1/7/2026, 12:58:50 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!--
